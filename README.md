@@ -1,5 +1,6 @@
 # Hi, I'm Roman Ivasyk 👋
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚀 Full-Stack Developer | React, Next.js, Node.js | Shopify Expert
+🌍 Based in Ukraine
 
 
 ## 🌐 Socials:
