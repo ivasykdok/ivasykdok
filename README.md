@@ -1,5 +1,5 @@
 # Hi, I'm Roman Ivasyk 👋
-🚀 Full-Stack Developer | React, Next.js, Node.js | Shopify Expert
+🚀 Full-Stack Developer | React, Next.js, Node.js | Shopify Expert  
 🌍 Based in Ukraine
 
 
